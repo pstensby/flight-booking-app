@@ -1,8 +1,8 @@
 import React from "react";
-import Button from "react-bootstrap/Button";
+import Layout from "./components/layout";
 
 function App() {
-  return <Button variant="primary">Test</Button>;
+  return <Layout />;
 }
 
 export default App;
